@@ -1,7 +1,3 @@
-**IOC Lookup & Enrichment Tool**
-Python tool that automates IOC triage — checking IPs, hashes, domains, URLs, and email headers against AbuseIPDB and VirusTotal, with batch processing and color-coded Excel output.
-
-📄 [Full Project Write-up (PDF)](./IOC-Lookup-Project.pdf)
 # IOC Lookup Tool
 
 A small Python tool I built to check IPs, file hashes, domains, URLs, and email headers against AbuseIPDB and VirusTotal — instead of doing it manually one at a time.
@@ -43,16 +39,16 @@ Results from real test runs, both the PowerShell and Excel versions, across all 
 ![Email Header PowerShell](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/Email-Powershell.png?raw=true)
 
 ### IP Sheet (Excel)
-![IP Sheet](ip-sheet.png)
+![IP Sheet](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/IP.png?raw=true)
 
 ### Hash Sheet (Excel)
-![Hash Sheet](hash-sheet.png)
+![Hash Sheet](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/Hash.png?raw=true)
 
 ### Domain Sheet (Excel)
-![Domain Sheet](domain-sheet.png)
+![Domain Sheet](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/Domain.png?raw=true)
 
 ### URL Sheet (Excel)
-![URL Sheet](url-sheet.png)
+![URL Sheet](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/URL.png?raw=true)
 
 ### Email Headers Sheet (Excel)
-![Email Headers Sheet](email-headers-sheet.png)
+![Email Headers Sheet](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/Email.png?raw=true)
