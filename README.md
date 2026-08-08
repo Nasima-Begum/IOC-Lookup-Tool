@@ -39,6 +39,9 @@ Results from real test runs, both the PowerShell and Excel versions, across all 
 ### Batch check — mixed IPs, hashes, domains, and URLs in one run (PowerShell)
 ![Batch check PowerShell](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/IOC-Powershell.png?raw=true)
 
+### Email Header (Powershell)
+![Email Header PowerShell](https://github.com/Nasima-Begum/IOC-Lookup-Tool/blob/main/Email-Powershell.png?raw=true)
+
 ### IP Sheet (Excel)
 ![IP Sheet](ip-sheet.png)
 
